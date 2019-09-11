@@ -2,7 +2,7 @@
 
 VERSION="development"
 URL_PRE_MIGRATE="http://download.tumbleweed.boombatower.com"
-URL_POST_MIGRATE="http://download.opensuse.org/history"
+URL_POST_MIGRATE="https://download.opensuse.org/history"
 CONFIG_DIR="/etc/zypp"
 VARS_DIR="$CONFIG_DIR/vars.d"
 VAR_NAME="snapshotVersion"
